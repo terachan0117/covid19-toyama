@@ -1,0 +1,164 @@
+{
+    "date": "2021/08/27 16:23",
+    "datasets": {
+        "date": "2021-08-26",
+        "data": [
+            {
+                "label": "富山市",
+                "count": 2185
+            },
+            {
+                "label": "高岡市",
+                "count": 579
+            },
+            {
+                "label": "射水市",
+                "count": 320
+            },
+            {
+                "label": "魚津市",
+                "count": 187
+            },
+            {
+                "label": "砺波市",
+                "count": 120
+            },
+            {
+                "label": "黒部市",
+                "count": 120
+            },
+            {
+                "label": "滑川市",
+                "count": 110
+            },
+            {
+                "label": "南砺市",
+                "count": 93
+            },
+            {
+                "label": "氷見市",
+                "count": 90
+            },
+            {
+                "label": "上市町",
+                "count": 76
+            },
+            {
+                "label": "立山町",
+                "count": 73
+            },
+            {
+                "label": "小矢部市",
+                "count": 45
+            },
+            {
+                "label": "入善町",
+                "count": 43
+            },
+            {
+                "label": "東京都",
+                "count": 28
+            },
+            {
+                "label": "朝日町",
+                "count": 20
+            },
+            {
+                "label": "神奈川県",
+                "count": 13
+            },
+            {
+                "label": "舟橋村",
+                "count": 9
+            },
+            {
+                "label": "愛知県",
+                "count": 6
+            },
+            {
+                "label": "富山県内",
+                "count": 6
+            },
+            {
+                "label": "石川県",
+                "count": 6
+            },
+            {
+                "label": "大阪府",
+                "count": 6
+            },
+            {
+                "label": "京都府",
+                "count": 5
+            },
+            {
+                "label": "埼玉県",
+                "count": 5
+            },
+            {
+                "label": "岐阜県",
+                "count": 5
+            },
+            {
+                "label": "福岡県",
+                "count": 3
+            },
+            {
+                "label": "県外",
+                "count": 3
+            },
+            {
+                "label": "千葉県",
+                "count": 2
+            },
+            {
+                "label": "新潟県",
+                "count": 2
+            },
+            {
+                "label": "県　外",
+                "count": 1
+            },
+            {
+                "label": "三重県",
+                "count": 1
+            },
+            {
+                "label": "北海道",
+                "count": 1
+            },
+            {
+                "label": "佐賀県",
+                "count": 1
+            },
+            {
+                "label": "金沢市",
+                "count": 1
+            },
+            {
+                "label": "山形県",
+                "count": 1
+            },
+            {
+                "label": "兵庫県",
+                "count": 1
+            },
+            {
+                "label": "熊本県",
+                "count": 1
+            },
+            {
+                "label": "福井県",
+                "count": 1
+            },
+            {
+                "label": "長野県",
+                "count": 1
+            },
+            {
+                "label": "静岡県",
+                "count": 1
+            }
+        ]
+    }
+}

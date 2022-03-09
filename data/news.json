@@ -9,7 +9,7 @@
             "dc:subject": "くらし・健康・教育",
             "dc:publisher": "富山県",
             "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2022-03-08T16:00:00+09:00"
+            "dc:date": "2022-03-09T16:00:00+09:00"
         },
         {
             "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/seikatsu/seikatsueisei/0125stage2.html",
@@ -20,7 +20,18 @@
             "dc:subject": "くらし・健康・教育",
             "dc:publisher": "富山県",
             "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2022-03-08T00:00:00+09:00"
+            "dc:date": "2022-03-09T00:00:00+09:00"
+        },
+        {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/kj00022192/zitakushiori.html",
+            "title": "We have created a home treatment guidebook（自宅療養のしおりを作成しました）",
+            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/kj00022192/zitakushiori.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "くらし・健康・教育",
+            "dc:publisher": "富山県",
+            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
+            "dc:date": "2022-03-09T00:00:00+09:00"
         },
         {
             "@rdf:about": "https://www.pref.toyama.jp/1103/20211227pcr.html",
@@ -32,17 +43,6 @@
             "dc:publisher": "富山県",
             "dc:contributor": null,
             "dc:date": "2022-03-07T00:00:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/kj00022192/zitakushiori.html",
-            "title": "We have created a home treatment guidebook（自宅療養のしおりを作成しました）",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/kj00022192/zitakushiori.html",
-            "description": null,
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2022-03-04T00:00:00+09:00"
         },
         {
             "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/zitakuryouyou.html",

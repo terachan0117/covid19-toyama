@@ -1,5 +1,5 @@
 {
-    "date": "2022/03/08 16:28",
+    "date": "2022/03/09 16:28",
     "data": [
         {
             "date": "2020-05-12",
@@ -5279,7 +5279,7 @@
             "severe_bed_occupancy_rate": 15.1,
             "patients_number": 440.8,
             "untracked_patients_number": 180.3,
-            "positive_rate": 45.1
+            "positive_rate": 45
         },
         {
             "date": "2022-03-03",
@@ -5287,7 +5287,7 @@
             "severe_bed_occupancy_rate": 15.9,
             "patients_number": 463.5,
             "untracked_patients_number": 192.7,
-            "positive_rate": 47.3
+            "positive_rate": 47.2
         },
         {
             "date": "2022-03-04",
@@ -5295,7 +5295,7 @@
             "severe_bed_occupancy_rate": 16.3,
             "patients_number": 474.4,
             "untracked_patients_number": 198.3,
-            "positive_rate": 50.1
+            "positive_rate": 48.6
         },
         {
             "date": "2022-03-05",
@@ -5303,7 +5303,7 @@
             "severe_bed_occupancy_rate": 16.7,
             "patients_number": 462.4,
             "untracked_patients_number": 192.6,
-            "positive_rate": 51.4
+            "positive_rate": 49.7
         },
         {
             "date": "2022-03-06",
@@ -5311,7 +5311,7 @@
             "severe_bed_occupancy_rate": 16.3,
             "patients_number": 440.5,
             "untracked_patients_number": 192.7,
-            "positive_rate": 49.6
+            "positive_rate": 47.6
         },
         {
             "date": "2022-03-07",
@@ -5319,7 +5319,15 @@
             "severe_bed_occupancy_rate": 16.3,
             "patients_number": 441.8,
             "untracked_patients_number": 183.6,
-            "positive_rate": 56.3
+            "positive_rate": 50.2
+        },
+        {
+            "date": "2022-03-08",
+            "hospitalized_number": 147.9,
+            "severe_bed_occupancy_rate": 16.3,
+            "patients_number": 433.2,
+            "untracked_patients_number": 174.4,
+            "positive_rate": 55.5
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "date": "2022/03/27 16:28",
+    "date": "2022/03/28 16:30",
     "data": [
         {
             "date": "2020-05-12",
@@ -5431,7 +5431,7 @@
             "severe_bed_occupancy_rate": 1.6,
             "patients_number": 284.6,
             "untracked_patients_number": 147.3,
-            "positive_rate": 57.2
+            "positive_rate": 56.9
         },
         {
             "date": "2022-03-22",
@@ -5439,7 +5439,7 @@
             "severe_bed_occupancy_rate": 2.4,
             "patients_number": 254.4,
             "untracked_patients_number": 133.7,
-            "positive_rate": 51
+            "positive_rate": 49.7
         },
         {
             "date": "2022-03-23",
@@ -5447,7 +5447,7 @@
             "severe_bed_occupancy_rate": 2.8,
             "patients_number": 225.5,
             "untracked_patients_number": 116.5,
-            "positive_rate": 47.9
+            "positive_rate": 44.9
         },
         {
             "date": "2022-03-24",
@@ -5455,7 +5455,31 @@
             "severe_bed_occupancy_rate": 4,
             "patients_number": 227.8,
             "untracked_patients_number": 121,
-            "positive_rate": 56.9
+            "positive_rate": 47.1
+        },
+        {
+            "date": "2022-03-25",
+            "hospitalized_number": 89.6,
+            "severe_bed_occupancy_rate": 5.2,
+            "patients_number": 221.5,
+            "untracked_patients_number": 117.2,
+            "positive_rate": 49.5
+        },
+        {
+            "date": "2022-03-26",
+            "hospitalized_number": 84.9,
+            "severe_bed_occupancy_rate": 6.3,
+            "patients_number": 213.4,
+            "untracked_patients_number": 111.1,
+            "positive_rate": 50.1
+        },
+        {
+            "date": "2022-03-27",
+            "hospitalized_number": 80.6,
+            "severe_bed_occupancy_rate": 7.1,
+            "patients_number": 208.7,
+            "untracked_patients_number": 108.8,
+            "positive_rate": 52.4
         }
     ]
 }

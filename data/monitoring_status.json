@@ -1,5 +1,5 @@
 {
-    "date": "2022/03/29 16:29",
+    "date": "2022/03/30 16:29",
     "data": [
         {
             "date": "2020-05-12",
@@ -5447,7 +5447,7 @@
             "severe_bed_occupancy_rate": 2.8,
             "patients_number": 225.5,
             "untracked_patients_number": 116.5,
-            "positive_rate": 44.9
+            "positive_rate": 44.8
         },
         {
             "date": "2022-03-24",
@@ -5455,7 +5455,7 @@
             "severe_bed_occupancy_rate": 4,
             "patients_number": 227.8,
             "untracked_patients_number": 121,
-            "positive_rate": 47.1
+            "positive_rate": 45.9
         },
         {
             "date": "2022-03-25",
@@ -5463,7 +5463,7 @@
             "severe_bed_occupancy_rate": 5.2,
             "patients_number": 221.5,
             "untracked_patients_number": 117.2,
-            "positive_rate": 49.5
+            "positive_rate": 45.1
         },
         {
             "date": "2022-03-26",
@@ -5471,7 +5471,7 @@
             "severe_bed_occupancy_rate": 6.3,
             "patients_number": 213.4,
             "untracked_patients_number": 111.1,
-            "positive_rate": 50.1
+            "positive_rate": 44.3
         },
         {
             "date": "2022-03-27",
@@ -5479,7 +5479,7 @@
             "severe_bed_occupancy_rate": 7.1,
             "patients_number": 208.7,
             "untracked_patients_number": 108.8,
-            "positive_rate": 52.4
+            "positive_rate": 43.6
         },
         {
             "date": "2022-03-28",
@@ -5487,7 +5487,15 @@
             "severe_bed_occupancy_rate": 8.3,
             "patients_number": 203.9,
             "untracked_patients_number": 107.2,
-            "positive_rate": 45.4
+            "positive_rate": 35.9
+        },
+        {
+            "date": "2022-03-29",
+            "hospitalized_number": 73.7,
+            "severe_bed_occupancy_rate": 8.7,
+            "patients_number": 221.2,
+            "untracked_patients_number": 119.5,
+            "positive_rate": 46.9
         }
     ]
 }

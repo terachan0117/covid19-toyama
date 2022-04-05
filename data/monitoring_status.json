@@ -1,5 +1,5 @@
 {
-    "date": "2022/04/04 16:29",
+    "date": "2022/04/05 16:29",
     "data": [
         {
             "date": "2020-05-12",
@@ -5495,7 +5495,7 @@
             "severe_bed_occupancy_rate": 8.7,
             "patients_number": 221.2,
             "untracked_patients_number": 119.5,
-            "positive_rate": 38.5
+            "positive_rate": 38
         },
         {
             "date": "2022-03-30",
@@ -5503,7 +5503,7 @@
             "severe_bed_occupancy_rate": 8.7,
             "patients_number": 227.3,
             "untracked_patients_number": 118.1,
-            "positive_rate": 40.5
+            "positive_rate": 38.6
         },
         {
             "date": "2022-03-31",
@@ -5511,7 +5511,39 @@
             "severe_bed_occupancy_rate": 8.3,
             "patients_number": 222.3,
             "untracked_patients_number": 110.5,
-            "positive_rate": 44.6
+            "positive_rate": 38.2
+        },
+        {
+            "date": "2022-04-01",
+            "hospitalized_number": 66.9,
+            "severe_bed_occupancy_rate": 7.9,
+            "patients_number": 224.3,
+            "untracked_patients_number": 112.5,
+            "positive_rate": 38.7
+        },
+        {
+            "date": "2022-04-02",
+            "hospitalized_number": 65,
+            "severe_bed_occupancy_rate": 7.5,
+            "patients_number": 220.5,
+            "untracked_patients_number": 111.5,
+            "positive_rate": 37.8
+        },
+        {
+            "date": "2022-04-03",
+            "hospitalized_number": 62.9,
+            "severe_bed_occupancy_rate": 7.1,
+            "patients_number": 214.3,
+            "untracked_patients_number": 106.1,
+            "positive_rate": 36.6
+        },
+        {
+            "date": "2022-04-04",
+            "hospitalized_number": 61.4,
+            "severe_bed_occupancy_rate": 6,
+            "patients_number": 211,
+            "untracked_patients_number": 104.5,
+            "positive_rate": 40.8
         }
     ]
 }

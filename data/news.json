@@ -9,18 +9,18 @@
             "dc:subject": "くらし・健康・教育",
             "dc:publisher": "富山県",
             "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2022-04-05T16:00:00+09:00"
+            "dc:date": "2022-04-07T16:00:00+09:00"
         },
         {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/vaccinetokusetsu.html",
-            "title": "新型コロナワクチン県接種特設会場における3回目接種について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/vaccinetokusetsu.html",
+            "@rdf:about": "https://www.pref.toyama.jp/120507/20211227pcr.html",
+            "title": "PCR等検査無料化事業について",
+            "link": "https://www.pref.toyama.jp/120507/20211227pcr.html",
             "description": null,
             "dc:creator": "厚生部健康対策室感染症対策課",
             "dc:subject": "くらし・健康・教育",
             "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課",
-            "dc:date": "2022-04-04T00:00:00+09:00"
+            "dc:contributor": null,
+            "dc:date": "2022-04-06T00:00:00+09:00"
         },
         {
             "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/seikatsu/seikatsueisei/1222zitaku.html",
@@ -34,20 +34,20 @@
             "dc:date": "2022-04-04T00:00:00+09:00"
         },
         {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/20211206vtp.html",
-            "title": "「ワクチン・検査パッケージ制度」について",
-            "link": "https://www.pref.toyama.jp/120507/20211206vtp.html",
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/vaccinetokusetsu.html",
+            "title": "新型コロナワクチン県接種特設会場における3回目接種について",
+            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/vaccinetokusetsu.html",
             "description": null,
             "dc:creator": "厚生部健康対策室感染症対策課",
             "dc:subject": "くらし・健康・教育",
             "dc:publisher": "富山県",
-            "dc:contributor": null,
-            "dc:date": "2022-04-01T00:00:00+09:00"
+            "dc:contributor": "厚生部健康対策室感染症対策課",
+            "dc:date": "2022-04-04T00:00:00+09:00"
         },
         {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/20211227pcr.html",
-            "title": "PCR等検査無料化事業について",
-            "link": "https://www.pref.toyama.jp/120507/20211227pcr.html",
+            "@rdf:about": "https://www.pref.toyama.jp/120507/20211206vtp.html",
+            "title": "「ワクチン・検査パッケージ制度」について",
+            "link": "https://www.pref.toyama.jp/120507/20211206vtp.html",
             "description": null,
             "dc:creator": "厚生部健康対策室感染症対策課",
             "dc:subject": "くらし・健康・教育",

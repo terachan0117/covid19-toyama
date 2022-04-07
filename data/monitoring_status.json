@@ -1,5 +1,5 @@
 {
-    "date": "2022/04/06 16:29",
+    "date": "2022/04/07 16:29",
     "data": [
         {
             "date": "2020-05-12",
@@ -5544,6 +5544,22 @@
             "patients_number": 211,
             "untracked_patients_number": 104.5,
             "positive_rate": 40.8
+        },
+        {
+            "date": "2022-04-05",
+            "hospitalized_number": "61.7人",
+            "severe_bed_occupancy_rate": 4.8,
+            "patients_number": "199.9人",
+            "untracked_patients_number": "92.5人",
+            "positive_rate": 40
+        },
+        {
+            "date": "2022-04-06",
+            "hospitalized_number": "62.1人",
+            "severe_bed_occupancy_rate": 5.2,
+            "patients_number": 193.5,
+            "untracked_patients_number": 98,
+            "positive_rate": 44
         }
     ]
 }

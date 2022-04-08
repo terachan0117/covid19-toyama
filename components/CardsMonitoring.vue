@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!--
     <page-header class="mt-6 mb-3">
       {{ $t('モニタリング項目') }}
     </page-header>
@@ -11,6 +12,7 @@
       <monitoring-untracked-patients-number-card />
       <monitoring-positive-rate-card />
     </v-row>
+    -->
   </div>
 </template>
 

@@ -1,5 +1,5 @@
 {
-    "date": "2022/05/02 16:30",
+    "date": "2022/05/03 11:58",
     "data": [
         {
             "date": "2020-05-12",
@@ -5728,6 +5728,38 @@
             "patients_number": 117.2,
             "untracked_patients_number": 73.6,
             "positive_rate": 25.2
+        },
+        {
+            "date": "2022-04-28",
+            "hospitalized_number": 24.3,
+            "severe_bed_occupancy_rate": 0,
+            "patients_number": 114,
+            "untracked_patients_number": 71.4,
+            "positive_rate": 22.1
+        },
+        {
+            "date": "2022-04-29",
+            "hospitalized_number": 24,
+            "severe_bed_occupancy_rate": 0.4,
+            "patients_number": 116.9,
+            "untracked_patients_number": 71.3,
+            "positive_rate": 27.4
+        },
+        {
+            "date": "2022-04-30",
+            "hospitalized_number": 24.6,
+            "severe_bed_occupancy_rate": 0.8,
+            "patients_number": 108.5,
+            "untracked_patients_number": 67.5,
+            "positive_rate": 27
+        },
+        {
+            "date": "2022-05-01",
+            "hospitalized_number": 24.3,
+            "severe_bed_occupancy_rate": 0.8,
+            "patients_number": 102.7,
+            "untracked_patients_number": 62.4,
+            "positive_rate": 27.4
         }
     ]
 }

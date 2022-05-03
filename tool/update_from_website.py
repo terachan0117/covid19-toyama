@@ -87,6 +87,8 @@ soup = BeautifulSoup(r.content, "html.parser")
 summary = soup.find("div", id="tmp_contents").get_text(strip=True)
 # 空白をすべて削除
 summary = re.sub(r"\s+", "", summary)
+# カンマをすべて削除
+summary = re.sub(r",", "", summary)
 # 新規感染者数
 new = int(mojimoji.zen_to_han(re.search(r"新規感染者数(\d+)", summary).group(1)))
 # 陽性患者数

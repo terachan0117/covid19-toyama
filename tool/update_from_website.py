@@ -10,6 +10,7 @@ import xmltodict
 # 現在時刻
 dt_now = datetime.datetime.now().strftime("%Y/%m/%d %H:%M")
 
+"""
 # 最新の情報を取得
 url = "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/kj00022038.html"
 headers = {
@@ -73,6 +74,7 @@ df_monitoring.rename(columns={"日付": "date", "入院者数": "hospitalized_nu
 data = {"date": dt_now, "data": df_monitoring.to_dict(orient="records")}
 with open('../data/monitoring_status.json', 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
+"""
 
 # 最新の情報を取得
 url = "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/kj00021798.html"

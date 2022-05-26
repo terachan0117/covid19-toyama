@@ -9,7 +9,7 @@
             "dc:subject": "くらし・健康・教育",
             "dc:publisher": "富山県",
             "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2022-05-25T16:00:00+09:00"
+            "dc:date": "2022-05-26T16:00:00+09:00"
         },
         {
             "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/vaccinetokusetsu.html",
@@ -34,6 +34,17 @@
             "dc:date": "2022-05-25T00:00:00+09:00"
         },
         {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/20220525mask.html",
+            "title": "マスク着用の考え方について",
+            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/20220525mask.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "くらし・健康・教育",
+            "dc:publisher": "富山県",
+            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
+            "dc:date": "2022-05-25T00:00:00+09:00"
+        },
+        {
             "@rdf:about": "https://www.pref.toyama.jp/120507/20211227pcr.html",
             "title": "PCR等検査無料化事業について",
             "link": "https://www.pref.toyama.jp/120507/20211227pcr.html",
@@ -43,17 +54,6 @@
             "dc:publisher": "富山県",
             "dc:contributor": null,
             "dc:date": "2022-05-24T11:00:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/novavax.html",
-            "title": "武田社ワクチン（ノババックス）の接種について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/novavax.html",
-            "description": "武田社ワクチン（ノババックス）の接種についてのページです。",
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2022-05-24T10:45:00+09:00"
         }
     ]
 }

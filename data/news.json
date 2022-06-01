@@ -9,7 +9,29 @@
             "dc:subject": "くらし・健康・教育",
             "dc:publisher": "富山県",
             "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2022-05-31T16:00:00+09:00"
+            "dc:date": "2022-06-01T16:00:00+09:00"
+        },
+        {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/seikatsu/seikatsueisei/kj00022344.html",
+            "title": "イベント等の開催について",
+            "link": "https://www.pref.toyama.jp/120507/kurashi/seikatsu/seikatsueisei/kj00022344.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "くらし・健康・教育",
+            "dc:publisher": "富山県",
+            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
+            "dc:date": "2022-06-01T00:00:00+09:00"
+        },
+        {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/20211227pcr.html",
+            "title": "PCR等検査無料化事業について",
+            "link": "https://www.pref.toyama.jp/120507/20211227pcr.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "くらし・健康・教育",
+            "dc:publisher": "富山県",
+            "dc:contributor": null,
+            "dc:date": "2022-05-31T17:00:00+09:00"
         },
         {
             "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/tokusetsukaijou/vaccination_center.html",
@@ -32,28 +54,6 @@
             "dc:publisher": "富山県",
             "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
             "dc:date": "2022-05-30T11:30:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/vaccinetokusetsu.html",
-            "title": "新型コロナワクチン県接種特設会場における3回目接種について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/vaccinetokusetsu.html",
-            "description": null,
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課",
-            "dc:date": "2022-05-30T10:00:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/20220525mask.html",
-            "title": "マスク着用の考え方について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/20220525mask.html",
-            "description": null,
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2022-05-25T00:00:00+09:00"
         }
     ]
 }

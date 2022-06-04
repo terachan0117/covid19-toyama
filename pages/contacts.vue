@@ -43,20 +43,10 @@
             </td>
           </tr>
           <tr>
-            <td class="content importantContact" v-bind="headingAttrs">
-              ({{ $t('外国人の方向け') }}) {{ $t('新型コロナウイルス感染症の予防・検査・医療に関すること') }}
-            </td>
-            <td class="bureau importantContact">
-            </td>
-            <td class="tel">
-              <a href="https://www.pref.toyama.jp/1018/bousaianzen/saigai/kj00021433.html" target="_blank" rel="noopener noreferrer" class="importantContact">{{ $t('新型コロナウイルス感染症に関する相談窓口・各種情報等') }} ({{ $t('富山県公式ホームページ') }})</a>
-            </td>
-          </tr>
-          <tr>
             <td class="content" v-bind="headingAttrs">
               {{ $t('本サイトの管理・運営に関すること') }}
             </td>
-            <td class="bureau">{{ $t('寺田 一世') }}</td>
+            <td class="bureau">{{ $t('当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、寺田 一世が開設したものです。') }}</td>
             <td class="tel"><a href="mailto:teradaissei17@gmail.com?subject=富山県コロナ対策サイトについて">teradaissei17[at]gmail.com</a><br>{{ $t('クリックでメールソフトが起動します。直接アドレスを入力される際は、[at]を@に置換してください。') }}</td>
           </tr>
           <tr>

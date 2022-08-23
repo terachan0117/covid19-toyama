@@ -1,37 +1,37 @@
 {
-    "date": "2022/08/22 16:30",
+    "date": "2022/08/23 16:34",
     "attr": "陽性者数",
-    "value": 91930,
+    "value": 93871,
     "children": [
         {
             "attr": "入院",
-            "value": 260,
+            "value": 273,
             "children": [
                 {
                     "attr": "軽症・中等症",
-                    "value": 255
+                    "value": 266
                 },
                 {
                     "attr": "重症",
-                    "value": 5
+                    "value": 7
                 }
             ]
         },
         {
             "attr": "宿泊療養",
-            "value": 286
+            "value": 279
         },
         {
             "attr": "自宅療養",
-            "value": 18336
+            "value": 19224
         },
         {
             "attr": "死亡",
-            "value": 125
+            "value": 126
         },
         {
             "attr": "退院等",
-            "value": 72923
+            "value": 73969
         }
     ]
 }

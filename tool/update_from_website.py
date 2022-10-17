@@ -105,11 +105,13 @@ mild = hospitalized - severe
 # 宿泊療養
 lodging = int(mojimoji.zen_to_han(re.search(r"宿泊療養施設入所者数(\d+)", summary).group(1)))
 # 自宅療養
-home = int(mojimoji.zen_to_han(re.search(r"自宅療養者数(\d+)", summary).group(1))) + int(mojimoji.zen_to_han(re.search(r"入院等調整中(\d+)", summary).group(1)))
+#home = int(mojimoji.zen_to_han(re.search(r"自宅療養者数(\d+)", summary).group(1))) + int(mojimoji.zen_to_han(re.search(r"入院等調整中(\d+)", summary).group(1)))
+home = 0
 # 死亡
 death = int(mojimoji.zen_to_han(re.search(r"死亡者数(\d+)", summary).group(1)))
 # 退院
-discharged = int(mojimoji.zen_to_han(re.search(r"退院及び療養解除者数(\d+)", summary).group(1)))
+#discharged = int(mojimoji.zen_to_han(re.search(r"退院及び療養解除者数(\d+)", summary).group(1)))
+discharged = 0
 
 # 公表日別による新規陽性者数の推移
 with open('../data/patients_number.json', 'r', encoding='utf-8') as file:

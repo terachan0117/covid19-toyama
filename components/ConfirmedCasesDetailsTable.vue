@@ -49,6 +49,7 @@
             </span>
           </div>
         </li>
+        <!--
         <li :class="[$style.box]">
           <div :class="$style.content">
             <span>{{ $t('自宅療養（入院等調整中を含む）') }}</span>
@@ -58,7 +59,6 @@
             </span>
           </div>
         </li>
-        <!--
         <li :class="[$style.box]">
           <div :class="$style.content">
             <span>{{ $t('入院・療養等調整中') }}</span>
@@ -78,6 +78,7 @@
             </span>
           </div>
         </li>
+        <!--
         <li :class="[$style.box]">
           <div :class="$style.content">
             <span>{{ $t('退院等（療養期間経過を含む）') }}</span>
@@ -87,6 +88,7 @@
             </span>
           </div>
         </li>
+        -->
       </ul>
     </li>
   </ul>

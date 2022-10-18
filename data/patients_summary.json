@@ -1,15 +1,15 @@
 {
-    "date": "2022/10/17 20:10",
+    "date": "2022/10/18 16:52",
     "attr": "陽性者数",
-    "value": 134776,
+    "value": 135380,
     "children": [
         {
             "attr": "入院",
-            "value": 95,
+            "value": 104,
             "children": [
                 {
                     "attr": "軽症・中等症",
-                    "value": 94
+                    "value": 103
                 },
                 {
                     "attr": "重症",

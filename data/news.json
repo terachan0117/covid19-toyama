@@ -1,6 +1,39 @@
 {
     "newsItems": [
         {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kensakittohaihu.html",
+            "title": "有症状者向け検査キット配布について",
+            "link": "https://www.pref.toyama.jp/120507/kensakittohaihu.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "くらし・健康・教育",
+            "dc:publisher": "富山県",
+            "dc:contributor": "厚生部健康対策室感染症対策課",
+            "dc:date": "2022-12-26T14:00:00+09:00"
+        },
+        {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/omicron_tokusetsu.html",
+            "title": "オミクロン株対応ワクチンの接種について",
+            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/omicron_tokusetsu.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "くらし・健康・教育",
+            "dc:publisher": "富山県",
+            "dc:contributor": "厚生部健康対策室感染症対策課",
+            "dc:date": "2022-12-26T00:00:00+09:00"
+        },
+        {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/tokusetsukaijou/vaccination_center.html",
+            "title": "従来モデルナワクチン1・2回目接種について",
+            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/tokusetsukaijou/vaccination_center.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "くらし・健康・教育",
+            "dc:publisher": "富山県",
+            "dc:contributor": "厚生部健康対策室感染症対策課",
+            "dc:date": "2022-12-26T00:00:00+09:00"
+        },
+        {
             "@rdf:about": "https://www.pref.toyama.jp/120507/20211227pcr.html",
             "title": "PCR等検査無料化事業について",
             "link": "https://www.pref.toyama.jp/120507/20211227pcr.html",
@@ -21,39 +54,6 @@
             "dc:publisher": "富山県",
             "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
             "dc:date": "2022-12-23T16:00:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/omicron_tokusetsu.html",
-            "title": "オミクロン株対応ワクチンの接種について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/omicron_tokusetsu.html",
-            "description": null,
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課",
-            "dc:date": "2022-12-19T00:00:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/tokusetsukaijou/vaccination_center.html",
-            "title": "従来モデルナワクチン1・2回目接種について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/tokusetsukaijou/vaccination_center.html",
-            "description": null,
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課",
-            "dc:date": "2022-12-15T00:00:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/kj00022038.html",
-            "title": "新型コロナウイルス感染対策レベル指標",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/kj00022038.html",
-            "description": null,
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2022-12-13T17:00:00+09:00"
         }
     ]
 }

@@ -1,6 +1,17 @@
 {
     "newsItems": [
         {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/20220525mask.html",
+            "title": "マスク着用の考え方について",
+            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/20220525mask.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "くらし・健康・教育",
+            "dc:publisher": "富山県",
+            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
+            "dc:date": "2023-03-08T09:30:00+09:00"
+        },
+        {
             "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/omicron_tokusetsu.html",
             "title": "オミクロン株対応ワクチンの接種について",
             "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/omicron_tokusetsu.html",
@@ -43,17 +54,6 @@
             "dc:publisher": "富山県",
             "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
             "dc:date": "2023-02-14T00:00:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/20220525mask.html",
-            "title": "マスク着用の考え方について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/20220525mask.html",
-            "description": null,
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2023-02-13T14:15:00+09:00"
         }
     ]
 }

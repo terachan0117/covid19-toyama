@@ -1,6 +1,39 @@
 {
     "newsItems": [
         {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/kj00022038.html",
+            "title": "新型コロナウイルス感染対策レベル指標",
+            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/kj00022038.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "くらし・健康・教育",
+            "dc:publisher": "富山県",
+            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
+            "dc:date": "2023-03-21T00:15:00+09:00"
+        },
+        {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/20211227pcr.html",
+            "title": "PCR等検査無料化事業について",
+            "link": "https://www.pref.toyama.jp/120507/20211227pcr.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "くらし・健康・教育",
+            "dc:publisher": "富山県",
+            "dc:contributor": null,
+            "dc:date": "2023-03-20T18:30:00+09:00"
+        },
+        {
+            "@rdf:about": "https://www.pref.toyama.jp/120507/houdou/202210muryokensa.html",
+            "title": "感染不安を感じる県民の方を対象とした「一般検査事業」（無料検査）の終了について",
+            "link": "https://www.pref.toyama.jp/120507/houdou/202210muryokensa.html",
+            "description": null,
+            "dc:creator": "厚生部健康対策室感染症対策課",
+            "dc:subject": "県政の情報",
+            "dc:publisher": "富山県",
+            "dc:contributor": null,
+            "dc:date": "2023-03-20T18:00:00+09:00"
+        },
+        {
             "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/novavax.html",
             "title": "武田社ワクチン（ノババックス）の接種について",
             "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/novavax.html",
@@ -21,39 +54,6 @@
             "dc:publisher": "富山県",
             "dc:contributor": "厚生部健康対策室感染症対策課",
             "dc:date": "2023-03-17T00:00:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/20220525mask.html",
-            "title": "マスク着用の考え方について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/20220525mask.html",
-            "description": null,
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2023-03-13T09:00:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/20211227pcr.html",
-            "title": "PCR等検査無料化事業について",
-            "link": "https://www.pref.toyama.jp/120507/20211227pcr.html",
-            "description": null,
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": null,
-            "dc:date": "2023-03-01T00:00:00+09:00"
-        },
-        {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/seikatsu/seikatsueisei/kj00022344.html",
-            "title": "イベント等の開催について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/seikatsu/seikatsueisei/kj00022344.html",
-            "description": null,
-            "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
-            "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2023-02-14T00:00:00+09:00"
         }
     ]
 }

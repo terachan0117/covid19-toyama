@@ -1,15 +1,15 @@
 {
-    "date": "2023/03/26 16:22",
+    "date": "2023/03/27 16:24",
     "attr": "陽性者数",
-    "value": 236214,
+    "value": 236234,
     "children": [
         {
             "attr": "入院",
-            "value": 33,
+            "value": 34,
             "children": [
                 {
                     "attr": "軽症・中等症",
-                    "value": 33
+                    "value": 34
                 },
                 {
                     "attr": "重症",

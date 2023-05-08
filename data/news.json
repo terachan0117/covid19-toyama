@@ -1,15 +1,15 @@
 {
     "newsItems": [
         {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kensakittohaihu.html",
-            "title": "有症状者向け検査キット配布について",
-            "link": "https://www.pref.toyama.jp/120507/kensakittohaihu.html",
-            "description": null,
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/2210kouhifutan.html",
+            "title": "新型コロナウイルス感染症の医療費公費負担について",
+            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/2210kouhifutan.html",
+            "description": "新型コロナウイルスに感染した場合の医療費の公費負担についての案内です。",
             "dc:creator": "厚生部健康対策室感染症対策課",
             "dc:subject": "くらし・健康・教育",
             "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課",
-            "dc:date": "2023-05-02T10:15:00+09:00"
+            "dc:contributor": "厚生部健康対策室感染症対策課感染症対策推進班",
+            "dc:date": "2023-05-08T00:00:00+09:00"
         },
         {
             "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/kj00022038.html",
@@ -34,26 +34,26 @@
             "dc:date": "2023-04-28T14:00:00+09:00"
         },
         {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/omicron_tokusetsu.html",
-            "title": "オミクロン株対応ワクチンの接種について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/omicron_tokusetsu.html",
+            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/soudanshisetsu/madoguchi/kenkouiryou/kj00022788.html",
+            "title": "LINE・電話相談窓口「コロナ相談＠富山県」のご案内",
+            "link": "https://www.pref.toyama.jp/120507/kurashi/soudanshisetsu/madoguchi/kenkouiryou/kj00022788.html",
             "description": null,
             "dc:creator": "厚生部健康対策室感染症対策課",
             "dc:subject": "くらし・健康・教育",
             "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課",
-            "dc:date": "2023-04-28T00:00:00+09:00"
+            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
+            "dc:date": "2023-04-01T00:00:00+09:00"
         },
         {
-            "@rdf:about": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/astrazeneca.html",
-            "title": "アストラゼネカ社ワクチンの接種について",
-            "link": "https://www.pref.toyama.jp/120507/kurashi/kenkou/kenkou/covid-19/astrazeneca.html",
-            "description": "アストラゼネカ社ワクチンの接種についてのページです。",
+            "@rdf:about": "https://www.pref.toyama.jp/120507/houdou/202303muryokensa.html",
+            "title": "無料検査（一般検査事業）は3月31日までです！（再周知）",
+            "link": "https://www.pref.toyama.jp/120507/houdou/202303muryokensa.html",
+            "description": null,
             "dc:creator": "厚生部健康対策室感染症対策課",
-            "dc:subject": "くらし・健康・教育",
+            "dc:subject": "県政の情報",
             "dc:publisher": "富山県",
-            "dc:contributor": "厚生部健康対策室感染症対策課新型コロナウイルス対策班",
-            "dc:date": "2023-04-28T00:00:00+09:00"
+            "dc:contributor": null,
+            "dc:date": "2023-03-29T00:00:00+09:00"
         }
     ]
 }

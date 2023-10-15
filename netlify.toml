@@ -1,7 +1,13 @@
 [[redirects]]
-  from = "/*"
-  to = "/404.html"
-  status = 404
+  from = "https://stopcovid19-toyama.netlify.app/*"
+  to = "https://www.pref.toyama.jp/1021/kurashi/kenkou/iryou/virus/index.html"
+  status = 301
+  force = true
+  
+# [[redirects]]
+#   from = "/*"
+#   to = "/404.html"
+#   status = 404
 
 [build]
   functions = "dist/functions"

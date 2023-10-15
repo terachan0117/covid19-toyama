@@ -231,7 +231,7 @@ const config: NuxtConfig = {
     },
   },
   router: {
-    middleware: 'redirect'
+    middleware: 'redirect',
   },
 }
 

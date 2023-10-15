@@ -77,6 +77,7 @@ import PageHeader from '@/components/PageHeader.vue'
 import AppLink from '@/components/AppLink.vue'
 
 export default Vue.extend({
+  middleware: 'redirect',
   components: {
     PageHeader,
     AppLink,

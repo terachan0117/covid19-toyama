@@ -230,9 +230,6 @@ const config: NuxtConfig = {
       poll: true,
     },
   },
-  router: {
-    middleware: 'redirect'
-  },
 }
 
 export default config

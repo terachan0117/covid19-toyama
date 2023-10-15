@@ -26,6 +26,7 @@ const options: ThisTypedComponentOptionsWithRecordProps<
   Computed,
   Props
 > = {
+  middleware: 'redirect',
   data() {
     return {
       showCardsTab: true,
